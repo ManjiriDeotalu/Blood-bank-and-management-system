@@ -35,7 +35,7 @@ The Blood Bank Donation System can be easily deployed using cloud services such 
    Open any browser and type http://localhost/BDMS/admin/login.php to open Admin Login Panel.
    
    Enter Below Credentials to login to the Admin Panel.<br>
-   <b> Username = </b> janhavi <br>
+   <b> Username = </b> Manjiri <br>
    <b>Password = </b> 123
    
 # If you like my project hit the star 🌟 button
